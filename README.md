@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sql**
 
-- 🌱 I’m currently learning **btech computer science engineering passout from mar athanasius college of engineering**
+- 🌱 I’m currently **btech computer science engineering passout from mar athanasius college of engineering**
 
 - 💬 Ask me about **sql, python, data structure and algorithms**
 
