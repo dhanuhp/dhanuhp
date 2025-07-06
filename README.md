@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhanu Hasi Prem</h1>
-<h3 align="center">A passionate AI-ML engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **sql**
 
 - 🌱 I’m currently **btech computer science and engineering passout from mar athanasius college of engineering**
 
-- 💬 Ask me about **sql, python, data structure and algorithms**
+- 💬 Ask me about **sql, python, data structure and algorithms,tableau,microsoft excel**
 
 - 📫 How to reach me **dhanuhp3@gmail.com**
 
